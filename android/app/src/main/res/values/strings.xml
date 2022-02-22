@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">FoodDeliveryApp</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">bzxVGTUVVmX9DhKxo--MrNSS3OJuq0AOi-LKS</string>
 </resources>
