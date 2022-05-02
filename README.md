@@ -29,4 +29,4 @@ It also contains support for codepush and the app can be easily updated through 
  4. Open terminal on the folder and run the commnad "npm install".
  5. If you have  an emulator already connected you can simply run the app using the command "npx react-native run-android" or "yarn android" (if you have yarn installed).
 
-## Also you can transfer the apk from the zip file and run it on your device or emulator.
+## Also you can download the apk from the release section of this repo and run it on your device or emulator.
