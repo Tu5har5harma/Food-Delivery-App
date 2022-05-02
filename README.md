@@ -23,10 +23,10 @@ It also contains support for codepush and the app can be easily updated through 
 
 ## Steps To Install The App
 
-# 1. Download the zip file on your device. (If you are using git you can also clone it)
-# 2. Extract it.
-# 3. Open the extracted folder in your editor eg. VS Code etc.
-# 4. Open terminal on the folder and run the commnad "npm install".
-# 5. If you have  an emulator already connected you can simply run the app using the command "npx react-native run-android" or "yarn android" (if you have yarn installed).
+ 1. Download the zip file on your device. (If you are using git you can also clone it)
+ 2. Extract it.
+ 3. Open the extracted folder in your editor eg. VS Code etc.
+ 4. Open terminal on the folder and run the commnad "npm install".
+ 5. If you have  an emulator already connected you can simply run the app using the command "npx react-native run-android" or "yarn android" (if you have yarn installed).
 
 ## Also you can transfer the apk from the zip file and run it on your device or emulator.
